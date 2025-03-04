@@ -23,8 +23,8 @@
 ### 1️⃣ Clone the Repository 🏗️
 
 ```bash
-git clone https://github.com/pranjaykumar926/Resturent-app.git
-cd Resturent-app
+git clone https://github.com/pranjaykumar926/Restaurant-app.git
+cd Restaurant-app
 ```
 
 ### 2️⃣ Install Dependencies 📦
