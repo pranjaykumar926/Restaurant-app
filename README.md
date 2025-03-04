@@ -2,7 +2,7 @@
 
 🎉 A modern **restaurant menu app** built with **React & Node.js**! Manage restaurants, explore dishes, and enjoy a sleek UI! 😍🍕🍔
 
-![Restaurant App Preview](https://raw.githubusercontent.com/pranjaykumar926/Resturent-app/main/image.png)
+![Restaurant App Preview](https://github.com/pranjaykumar926/Resturent-app/blob/main/image.png)
 
 ## 📌 Features 🎯
 
